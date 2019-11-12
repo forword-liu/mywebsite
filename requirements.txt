@@ -1,6 +1,6 @@
 
 #requirements.txt
-Django==2.1.6
+Django==2.1.11
 django[argon2]
 django-braces
 django-bootstrap4
